@@ -1,5 +1,9 @@
-h1, p {
+h1 {
 text-align: center;
 color: #9E1B32;
 }
 
+p {
+text-align: center;
+color: pink;
+}
