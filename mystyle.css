@@ -1,9 +1,10 @@
-h1 {
+h1, p{
 text-align: center;
 color: #9E1B32;
 }
 
-p {
+h3 {
 text-align: center;
 color: pink;
 }
+
